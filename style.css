@@ -1,0 +1,117 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+    
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+    text-decoration: none;
+    color: black;
+    margin: 10px 20px;
+    
+  }
+.orange-color{
+    color: orange;
+}
+.top-banner-btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, tomato, orange, tomato);
+    border-radius: 5px;
+    padding: 10px 40px;
+    
+
+}
+h1{
+    font-size: 50px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+section{
+    padding-bottom: 50px;
+    height: 500px;
+}
+#work-pro-txt{
+    text-align: center;
+    padding: 50px;
+}
+.working-project{
+    background-color: #cdd8d7b9;
+}
+.card-box{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 374px;
+    width: 370px;
+    float: left;
+    margin-left: 4%;
+    box-shadow: 10px 10px 40px gray;
+
+}
+#con-img{
+    margin: 10px;
+}
+.card-box-txt{
+    padding: 10px;
+}
+.get-updated{
+    background-image: linear-gradient(45deg, rgb(0, 255, 200), rgba(71, 203, 255, 0.801));
+    border-radius: 10px;
+    text-align: center;
+    margin: 50px;
+    margin-bottom: 10px;
+    height: 250px;
+    padding: 3px;
+    box-shadow: gray 10px 10px 10px 10px;
+}
+#get-up-sec{
+    background-color: rgb(221, 199, 199);
+    height: 350px;
+    padding: 10px;
+}
+.bottom-work-inquiry{
+    background-color: rgb(255, 255, 255);
+    padding: 10%;
+    height: 250px;
+}
+.bottom-container{
+    background-image: url(shapes/Group_33094_1.png);
+    padding: 62px;
+    background-size: 100%;
+    background-repeat: none;
+    
+
+}
+.wrk-inq-txt{
+    color: white;
+}
+.wrk-btn{
+    float: right;
+    font-size: 25px;
+}
+.last-segment{
+    text-align: center;
+    
+}
+#last-segment1{
+    height: 200px;
+}
+
